@@ -1,0 +1,41 @@
+#vehic {
+  font-family: Arial;
+}
+#forme {
+  position: absolute;
+  top: 50px;
+  width: 80%;
+  height: 100px;
+  background-color: #000000;
+  text-align: center;
+}
+
+#essieuAR {
+  position: absolute;
+  left: 10%;
+  top: 130px;
+  background-color: #ffffff;
+  border: 3px solid black;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  
+ 
+  
+}
+
+
+
+#essieuAV {
+  position: absolute;
+  left: 62%;
+  top: 130px;
+  background-color: #ffffff;
+  border: 3px solid black;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  
+ 
+  
+}
